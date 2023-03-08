@@ -4,7 +4,7 @@ Made with a free-to-use portfolio HTML template.
 
 **Live preview:** https://0xali.com/0xfolio
 
-![0xFolio preview](https://github.com/ajiehung/Self-Intro/blob/main/img/Readme.png)
+![Preview](https://github.com/ajiehung/Self-Intro/blob/master/img/Readme.png)
 
 ## CSS Frameworks Used
 
