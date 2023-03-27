@@ -1,8 +1,6 @@
 # Self Introduction Website
 
-Made with a free-to-use portfolio HTML template.
-
-**Live preview:** https://0xali.com/0xfolio
+**Live preview:** https://ajiehung.github.io/Self-Intro/#work
 
 ![Preview](https://github.com/ajiehung/Self-Intro/blob/master/img/Readme.png)
 
