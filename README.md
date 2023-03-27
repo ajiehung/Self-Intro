@@ -1,6 +1,6 @@
 # Self Introduction Website
 
-**Live preview:** https://ajiehung.github.io/Self-Intro/#work
+**Live preview:** https://ajiehung.github.io/Self-Intro/
 
 ![Preview](https://github.com/ajiehung/Self-Intro/blob/master/img/Readme.png)
 
